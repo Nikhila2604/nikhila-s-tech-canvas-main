@@ -94,7 +94,7 @@ const projects = [
     gradient: "from-violet-500/30 to-cyan-500/10",
     emoji: "🛍️",
 
-    demo: "https://github.com/Nikhila-2604/E-Mart.git",
+    demo: "https://emart.23102160.workers.dev/",
     code: "https://github.com/Nikhila-2604/E-Mart.git",
   },
   {
